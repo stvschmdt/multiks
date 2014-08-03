@@ -1,0 +1,19 @@
+multiks
+=======
+
+forecasting tool prototype - with a do one thing well baseline
+
+4 original classes to model database tables:
+  employee
+  client
+  project
+  timecard
+  
+original task 7.14
+
+* need to migrate classes to own files
+* I/O handler for manual type and .txt read in
+* existing class error handling
+* basic logic control flow add/edit/delete
+* display manager
+  
